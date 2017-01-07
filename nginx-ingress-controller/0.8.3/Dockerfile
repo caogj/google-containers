@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/rescheduler:v0.2.1
+FROM gcr.io/google_containers/nginx-ingress-controller:0.8.3
